@@ -16,7 +16,7 @@
 
 
 
-        // Declaring a variable.
+        // Declaring a variables.
         $txt = "Hello World";
         $number = 10;
 
