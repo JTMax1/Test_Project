@@ -5,7 +5,7 @@
 
 
 
-        // Defining a variables.
+        // Defining a variables including an array.
         $txts = "Hello World";
         $num = 123456789;
         $colors = array("Red", "Green", "Blue");

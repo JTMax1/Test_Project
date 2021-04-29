@@ -11,7 +11,7 @@
         
 
         <?php
-        # This is a single line comment.
+        # This is a single line comment, nothing more
         echo "Hello World! <br>";
 
 
