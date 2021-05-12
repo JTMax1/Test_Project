@@ -64,7 +64,7 @@ print_r(array_count_values($occurance));
 echo "<br>";
 
 
-#this shows the number of occurances of various score in our math test array
+#this show the number of occurances of various score in our math test array
 print_r(array_count_values($math_test));
 
 
